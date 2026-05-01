@@ -1,0 +1,52 @@
+body {
+  font-family: "Georgia", serif;
+  margin: 0;
+  padding: 0;
+  color: brown;
+}
+
+header h1 {
+  text-align: centre;
+  font-size: 50px;
+  margin-top: 20px;
+  letter-spacing: 2px;
+}
+
+marquee {
+  font-size: 20px;
+  font-style: italic;
+  background: pink;
+  padding: 10px;
+  border-radius: 8px;
+ 
+}
+
+hr {
+  height: 2px;
+  background: maroon;
+  width: 80%;
+}
+
+td {
+  text-align: center;
+  background: cream;
+  border-radius: 8px;
+}
+
+p {
+  font-size: 20px;
+  color: maroon;
+}
+
+button {
+  background-color:maroon;
+  color: white;
+  font-size: 20px;
+  padding: 12px 25px;
+  border: none;
+  border-radius: 8px;
+}
+
+button:hover {
+   transform: scale(1.05);
+}
